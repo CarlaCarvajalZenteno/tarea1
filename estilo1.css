@@ -1,0 +1,62 @@
+#pelo{
+    width: 500px;
+    height: 500px;
+    background-color: red;
+    margin: 20px;
+    border-radius: 300px;
+    display: inline-block;
+    position: relative;
+
+}
+#rostro{
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    border-radius: 200px;
+    display: inline-block;
+    position: relative;
+    top: 80px;
+    left: 80px;
+
+}
+#ojo1{
+    width: 50px;
+    height: 70px;
+    background-color: black;
+    border-radius: 30px;
+    display: inline-block;
+    position: relative;
+    top: 80px;
+    left: 80px;
+
+}
+#ojo2{
+    width: 50px;
+    height: 70px;
+    background-color: black;
+    border-radius: 30px;
+    display: inline-block;
+    position: relative;
+    top: 80px;
+    left: 180px;
+}
+#nariz{
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 30px;
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: 50px;
+}
+#boca{
+    width: 200px;
+    height: 70px;
+    background-color: red;
+    border-radius: 30px;
+    display: inline-block;
+    position: relative;
+    top: 150px;
+    left: 70px;
+}
